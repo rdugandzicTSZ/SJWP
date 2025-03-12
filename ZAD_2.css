@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.omot {
+    width: 900px;
+    height: 700px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.sadrzaj {
+    display: flex;
+    flex: 1;
+}
+
+aside {
+    width: 20%;
+    background-color: yellow;
+    padding: 20px;
+}
+
+main {
+    width: 80%;
+    background-color: blue;
+    padding: 20px;
+}
+
+footer {
+    background-color: darkcyan;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
