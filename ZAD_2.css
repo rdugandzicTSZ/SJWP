@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-.omot {
+.vanjsko {
     width: 900px;
     height: 700px;
 
@@ -19,7 +19,7 @@ header {
     padding: 15px;
 }
 
-.sadrzaj {
+.tekst {
     display: flex;
     flex: 1;
 }
